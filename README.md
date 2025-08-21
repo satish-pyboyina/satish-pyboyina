@@ -31,9 +31,9 @@ Results-driven Data Solution Architect with a track record of delivering **end-t
 
 ## **🛠️ Hobby Projects**
 
-* **[Certification Training App](https://github.com/satish-pyboyina/training-for-certification-exams)** (React App built using Cursor)  
-* **[Prompt Engineering App](https://github.com/satish-pyboyina/learn-prompt-engineering)** (built using Gemini)
-* **[ByBit Caller Trading Tool](https://github.com/satish-pyboyina/ByBitCaller)** (Python based, built with Copilot's assistance)
+* **[Certification Training App](https://github.com/satish-pyboyina/training-for-certification-exams)** (React App vibe coded using Cursor)  
+* **[Prompt Engineering App](https://github.com/satish-pyboyina/learn-prompt-engineering)** (Vibe Coded using Gemini)
+* **[ByBit Caller Trading Tool](https://github.com/satish-pyboyina/ByBitCaller)** (Python based, assisted by Copilot)
 
 ## **🎓 Education**
 
@@ -49,66 +49,66 @@ Results-driven Data Solution Architect with a track record of delivering **end-t
 
 ### **Latitude Financial Services**
 
-#### **Data Architect (Feb 2022 – July 2025)**
+#### **Solution Designer (Acting Data Architect) (Feb 2022 – July 2025)**
 
 * **Reduced data security risk** by designing and delivering a Personal Information Management system across platforms, collaborating with a wide range of stakeholders.
-* Improved AI's acceptance by **building internal AI** assistants and conducting team wide trainings
-* Architected and modeled enterprise data solutions, including **Feature Store and Enterprise Data Warehouse**
-* Spearheaded the migration of on-premise ETL and data stores to a modern **AWS-based cloud stack**, significantly improving data workflow efficiency
-* Managed a talented team of Data Analysts and led the **Architecture CoP** and the **Data Analytics CoP**
-* Led the evaluation and selection of MDM (Master Data Management) and TDM (Test Data Management) solutions, establishing a foundation for data integrity
-* Worked extensively with DBT, Snowflake, KADA, Python, and IICS
+* Improved AI's acceptance by **building internal AI** assistants and conducting team wide trainings.
+* Architected and modeled enterprise data solutions, including **Feature Store and Enterprise Data Warehouse**.
+* Spearheaded the migration of on-premise ETL and data stores to a modern **AWS-based cloud stack**, significantly improving data workflow efficiency.
+* Managed a talented team of Data Analysts and led the **Architecture CoP** and the **Data Analytics CoP**.
+* Led the evaluation and selection of MDM (Master Data Management) and TDM (Test Data Management) solutions, establishing a foundation for data integrity.
+* Worked extensively with DBT, Snowflake, KADA, Python, and IICS.
 
 #### **Lead Data Analyst (Nov 2015 – Jan 2022\)**
 
-* Designed and implemented complex data models, including **Data Vault and Data Warehouse in AWS Redshift**
-* Developed an alerting and monitoring framework and established standards and procedures for data management and stewardship
-* Played a pivotal role in high-impact projects, including a DWH migration to AWS, a credit card platform upgrade, and securitization and statutory reporting
-* Utilized a broad technical stack including Oracle, Postgres, AWS Redshift, SQL Server, SAS, Informatica, and Python
+* Designed and implemented complex data models, including **Data Vault and Data Warehouse in AWS Redshift**.
+* Developed an alerting and monitoring framework and established standards and procedures for data management and stewardship.
+* Played a pivotal role in high-impact projects, including a DWH migration to AWS, a credit card platform upgrade, and securitization and statutory reporting.
+* Utilized a broad technical stack including Oracle, Postgres, AWS Redshift, SQL Server, SAS, Informatica, and Python.
 
 ### **GE Capital**
 
 **Data Analyst** (May 2014 – Nov 2015\)
 
-* Managed the full-cycle data analysis process, including requirements gathering, data profiling, data lineage identification, and solution design 
-* Established standards and procedures for data artifacts and contributed to projects in **Regulatory Reporting, Anti-Money Laundering, and Market Segmentation**
+* Managed the full-cycle data analysis process, including requirements gathering, data profiling, data lineage identification, and solution design .
+* Established standards and procedures for data artifacts and contributed to projects in **Regulatory Reporting, Anti-Money Laundering, and Market Segmentation**.
 
 ### **Origin Energy**
 
 **Data Analyst** (Oct 2012 – Dec 2013\)
 
-* Migrated 1.4 million retail customer accounts into Origin's retail applications (SAP ISU and CRM)
-* Ensured data accuracy through sourcing and profiling, and developed reconciliation reports and cleansing pipelines
+* Migrated 1.4 million retail customer accounts into Origin's retail applications (SAP ISU and CRM).
+* Ensured data accuracy through sourcing and profiling, and developed reconciliation reports and cleansing pipelines.
 
 ### **Sensis**
 
 **Data Specialist / Datastage Lead** (Jan 2011 – Oct 2012\)
 
-* Led concurrent Agile projects and managed the DataStage infrastructure, including critical disaster recovery planning
+* Led concurrent Agile projects and managed the DataStage infrastructure, including critical disaster recovery planning.
 
 ### **Accenture**
 
 **Software Engineer** (Jul 2007 – Jan 2011\)
 
-* Specialized in Data Migration and Management for a diverse client portfolio, including projects at SP AusNet, TAFE Queensland, and Origin Energy
+* Specialized in Data Migration and Management for a diverse client portfolio, including projects at SP AusNet, TAFE Queensland, and Origin Energy.
 
 ### **SP AusNet**
 
 **Technical Lead** (Jul 2009 – Dec 2010\)
 
-* Oversaw a major **SAP data migration project**, including reconciliation reporting and team mentorship
+* Oversaw a major **SAP data migration project**, including reconciliation reporting and team mentorship.
 
 ### **TAFE Queensland**
 
 **Technical Maintenance Lead** (Aug 2008 – Jul 2009\)
 
-* Oversaw database maintenance and reporting environments
+* Oversaw database maintenance and reporting environments.
 
 ### **Origin Energy**
 
 **ETL Developer** (Jul 2007 – Aug 2008\)
 
-* Delivered customer, account, and tariff migrations and verified data integrity
+* Delivered customer, account, and tariff migrations and verified data integrity.
 
 ## **🔧 Conceptual Expertise**
 
