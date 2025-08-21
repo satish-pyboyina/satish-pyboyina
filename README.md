@@ -7,17 +7,17 @@
 
 ## **🧠 Summary**
 
-Results-driven Data Solution Architect with a track record of delivering **end-to-end data solutions** aligned with **business objectives and stakeholders**. I specialize in **data strategy, governance, data pipelines, migrations, and modern data platforms**. I am adept at mentoring cross-functional teams and leading transformation initiatives in the cloud. I am passionate about driving **ML and Gen-AI** adoption by designing scalable data foundations and integrating **context/prompt engineering** practices across the enterprise.
+Results-driven Data Solution Architect with a track record of delivering **end-to-end data solutions** aligned with **business objectives and stakeholders**. I specialize in **data strategy, modeling, governance, data pipelines, migrations, and modern data platforms**. I am adept at mentoring cross-functional teams and leading transformation initiatives in the cloud. I am passionate about driving **ML and Gen-AI** adoption by designing scalable data foundations and integrating **context/prompt engineering** practices across the enterprise.
 
 ### **✨ Key Achievements**
 
 * **ML Enablement**: Deployed a Feature Store that reduced cleansing, standardization, and enrichment work by 30%.  
-* **Risk Reduction**: Automated the algorithmic deletion of aged data, treating 55 billion rows in production systems without impacting business as usual (BAU).  
+* **Risk Reduction**: Automated the algorithmic deletion of aged data, treating 55 billion rows in production systems without impacting BAU.  
 * **Data Cataloguing and Observability**: Enabled self-servicing/social knowledge sharing using KADA, reducing dependency on SMEs by 20% and Data Lineage discovery time by 70%.
 
 ### **🌟 Specialization**
 
-* Data Architecture & Governance \- Proficient  
+* Data Architecture, Modeling & Governance \- Proficient  
 * Stakeholder Management \- Advanced  
 * Data & AWS Cloud Migration \- Proficient  
 * Feature Store, Data Vault & Warehousing \- Advanced  
