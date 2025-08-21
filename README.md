@@ -29,21 +29,27 @@ Results-driven Data Solution Architect with a track record of delivering **end-t
 * TOGAF® Enterprise Architecture Practitioner  
 * Above and Beyond Award (x2)
 
+## **🛠️ Hobby Projects**
+
+* **[Certification Training App](https://github.com/satish-pyboyina/training-for-certification-exams)** (React App built using Cursor)  
+* **[Prompt Engineering App](https://github.com/satish-pyboyina/learn-prompt-engineering)** (built using Gemini)
+* **[ByBit Caller Trading Tool](https://github.com/satish-pyboyina/ByBitCaller)** (Python based, built with Copilot's assistance)
+
 ## **🎓 Education**
 
 * **Masters of Information Systems**, University of Ballarat  
 * **PG Diploma in Information Systems**, Osmania University  
 * **Bachelor of Computer Applications**, Osmania University
 
-## **🎓 Domain Knowledge**
+## **💼 Domain Knowledge**
 
-* Finance . Marketing . Utilities . Education
+* 💳 Finance . 🔌 Utilities . 📚 Education
 
 ## **💼 Experience**
 
 ### **Latitude Financial Services**
 
-#### **Data Architect (Feb 2022 – Present)**
+#### **Data Architect (Feb 2022 – July 2025)**
 
 * **Reduced data security risk** by designing and delivering a Personal Information Management system across platforms, collaborating with a wide range of stakeholders.
 * Improved AI's acceptance by **building internal AI** assistants and conducting team wide trainings
